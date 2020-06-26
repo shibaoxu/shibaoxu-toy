@@ -1,6 +1,6 @@
 {
   "name": "@shibaoxu/shibaoxu-toy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "learning build npm package",
   "main": "index.js",
   "scripts": {
