@@ -1,0 +1,24 @@
+{
+  "name": "@shibaoxu/shibaoxu-toy",
+  "version": "1.0.1",
+  "description": "learning build npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shibaoxu/shibaoxu-toy.git"
+  },
+  "keywords": [
+    "node",
+    "learning",
+    "toy"
+  ],
+  "author": "shibaoxu <shibaoxu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shibaoxu/shibaoxu-toy/issues"
+  },
+  "homepage": "https://github.com/shibaoxu/shibaoxu-toy#readme"
+}
